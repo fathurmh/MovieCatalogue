@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".DetailActivity"
+    tools:showIn="@layout/activity_detail">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/detail_poster"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/gundala"/>
+        </FrameLayout>
+
+        <TableLayout
+            android:paddingTop="@dimen/activity_vertical_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_marginBottom="@dimen/activity_vertical_margin">
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/movie_title"/>
+                <TextView
+                    android:id="@+id/detail_title"
+                    style="@style/TextSpec.Value"
+                    android:text="@string/dummy_value" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/producer"/>
+                <TextView
+                    android:id="@+id/detail_producer"
+                    style="@style/TextSpec.Value"
+                    android:text="@string/dummy_value" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/director"/>
+                <TextView
+                    android:id="@+id/detail_director"
+                    style="@style/TextSpec.Value"
+                    android:text="@string/dummy_value" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/writer"/>
+                <TextView
+                    android:id="@+id/detail_writer"
+                    style="@style/TextSpec.Value"
+                    android:text="@string/dummy_value" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/cast"/>
+                <TextView
+                    android:id="@+id/detail_cast"
+                    style="@style/TextSpec.Value"
+                    android:text="@string/dummy_value" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/distributor"/>
+                <TextView
+                    android:id="@+id/detail_distributor"
+                    style="@style/TextSpec.Value"
+                    android:text="@string/dummy_value" />
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+                <TextView
+                    style="@style/TextSpec.Field"
+                    android:text="@string/source"/>
+                <TextView
+                    android:id="@+id/detail_source"
+                    style="@style/TextSpec.Value"
+                    android:text="@string/dummy_value" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            style="@style/TextContent.Subtitle"
+            android:text="@string/movie_synopsis"
+            android:layout_marginBottom="8dp"/>
+        <TextView
+            android:id="@+id/detail_synopsis"
+            style="@style/TextContent"
+            android:text="@string/movie_synopsis"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:justificationMode="inter_word"
+            android:lineSpacingMultiplier="1"/>
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

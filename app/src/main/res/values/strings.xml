@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_activity_detail">Detail Activity</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_synopsis">Synopsis</string>
+    <string name="producer">Producer</string>
+    <string name="dummy_value">dummy value</string>
+    <string name="director">Director</string>
+    <string name="writer">Writer</string>
+    <string name="cast">Cast</string>
+    <string name="distributor">Distributor</string>
+    <string name="source">Source</string>
+
+    <string-array name="data_title">
+        <item>GUNDALA</item>
+        <item>READY OR NOT</item>
+        <item>ONCE UPON A TIME IN HOLLYWOOD</item>
+        <item>BALI: BEATS OF PARADISE</item>
+        <item>ANGEL HAS FALLEN</item>
+        <item>47 METERS DOWN: UNCAGED</item>
+        <item>THE ANGRY BIRDS MOVIE 2</item>
+        <item>ESCAPE PLAN: THE EXTRACTORS</item>
+        <item>DORA AND THE LOST CITY OF GOLD</item>
+        <item>WEDDING AGREEMENT</item>
+        <item>MAHASISWI BARU</item>
+    </string-array>
+
+    <string-array name="data_synopsis">
+        <item>Sancaka hidup di jalanan sejak ditinggal ayah dan ibunya. Menghadapi hidup yang keras, Sancaka belajar untuk bertahan hidup dengan tidak peduli dengan orang lain dan hanya mencoba untuk mendapatkan tempat yang aman bagi dirinya sendiri. Ketika situasi kota semakin tidak aman dan ketidakadilan merajalela di seluruh negeri, Sancaka harus buat keputusan yang berat, tetap hidup di zona amannya, atau keluar sebagai Gundala untuk membela orang-orang yang ditindas.</item>
+        <item>Ready or Not adalah kisah seorang pengantin muda (Samara Weaving) ketika ia bergabung dengan keluarga besar suami barunya (Mark O\'Brien) yang kaya dan eksentrik (Adam Brody, Henry Czerny, Andie MacDowell) dalam tradisi keluarga yang berubah menjadi permainan mematikan dengan semua orang berjuang untuk bertahan hidup.</item>
+        <item>Mengambil latar Los Angeles tahun 1969, Once Upon a Time in Hollywood akan berkisah tentang Rick Dalton (Leonardo DiCaprio), seorang bintang televisi yang pernah berjaya di masanya. Dengan berkembangnya industri layar lebar hollywood, Rick dan pemeran penggantinya Cliff Booth (Brad Pitt) memutuskan bekerja sama untuk mengejar karir di industri film.</item>
+        <item>Bali: Beats of Paradise menampilkan Artis Pemenang Grammy Award Judith Hill (Pemenang Oscar- 20 Feet from Stardom) dan komposer Indonesia Nyoman Wenten. Selama 40 tahun terakhir Nyoman Wenten telah mengabdikan hidupnya untuk mengajar. Saat ini mengajar di departemen Etnomusikologi di UCLA Herb Alpert School of Music dan sekolah musik California Institute of The Arts. Musik gamelan telah menyebar ke sebagian besar negara bagian di AS, tetapi sayangnya mulai menurun di tanah air. Wenten ingin meninggalkan sesuatu yang istimewa sebelum beliau pensiun dan kembali ke Bali. Secara kebetulan penyanyi pemenang Grammy, Judith Hill, sedang mencari suara khas untuk musik baru yang sedang ia komposisikan. Dia tertarik dengan musik gamelan dan pergi untuk membahas perpaduan gaya musik. Hill dan Wenten bekerja di studio mengerjakan "Queen of the Hill", sebuah lagu yang memadukan musik funk dan gamelan. Mereka memutuskan untuk membuat video klip yang diambil di Joshua Tree Desert, California Selatan. Video klip tersebut adalah kaleidoskop dari musik funk dan tarian tradisional Bali.</item>
+        <item>Pasca percobaan pembunuhan Presiden AS. Agen rahasia Mike Banning (Gerard Butler) kini menjadi tersangka utama. Tidak terima, Mike kabur dan berusaha mengungkap pihak yang telah menjebaknya.</item>
+        <item>Liburan empat gadis untuk menyelam ke sebuah kota bawah air yang hancur berubah menjadi tragedi.Nyawa mereka terancam saat hiu ganas berada disekitar mereka. Kini keempatnya berusaha menyelamatkan diri dari ganasnya gigi tajam hiu besar.</item>
+        <item>The Angry Birds Movie 2 akan membawa pada petualangan baru yang tidak mungkin terjadi saat Red (Jason Sudeikis) dan Leonard (Bill Hader) bersatu untuk bersama-sama melawan Zeta, pemimpin pulau ketiga yang mengancam pulau babi dan burung.</item>
+        <item>Petualangan Ray Breslin (Sylvester Stallone) yang kali ini harus membebaskan sang kekasih, Abigail Ross (Jaime King). Abigail ditangkap oleh orang dari masa lalu Ray. Kini Ray dan timnya melakukan misi berbahaya demi menyelamatkan kekasihnya itu.</item>
+        <item>Diangkat dari serial televisi yang sangat populer. Dora (Isabela Moner), seorang penjelajah muda, memimpin teman-temannya dalam petualangan untuk menyelamatkan orangtuanya dan memecahkan misteri di balik kota emas yang hilang.</item>
+        <item>Btari Hapsari (Tari) tidak menyangka pernikahannya jadi mimpi buruk. Hari pertama tiba di rumah Byantara Wicaksana (Bian), suaminya, Tari langsung dihadapkan pada perjanjian pernikahan yang isinya mengatakan bahwa mereka akan bercerai dalam waktu satu tahun. Gila! Bian berencana menikahi Sarah, kekasihnya. Bian melakukan pernikahan, hanya demi bakti kepada orangtua.Tari tidak menyerah, ia mencoba mengambil hati Bian. Namun sekuat apa pun Tari mencoba, selalu ada Sarah di antara mereka.</item>
+        <item>Di usianya yang sudah lanjut, LASTRI (Widyawati) ingin sekali kuliah di perguruan tinggi. Saat menjadi mahasiswi baru, Lastri bersahabat dengan DANNY (Morgan Oey), SARAH (Mikha Tambayong), ERFAN (Umay Shahab) dan REVA (Sonia Alyssa). Mereka pun membentuk sebuah geng. Geng Lastri sering membuat kehebohan di kampus dan menimbulkan kericuhan hingga anak Lastri, ANNA (Karina Suwandi), pusing menghadapi ibunya yang ikut-ikutan bandel seperti pulang larut malam dan sering keluyuran. Anna jadi sering memarahi tingkah laku Lastri seolah memarahi anaknya sendiri.Kehidupan kuliah Lastri mulai dipertaruhkan saat Lastri mendapat IPK semester pertama. Apalagi, CHAERUL (Slamet Rahardjo), dekan fakultas, merasa Lastri tak pantas melanjutkan kuliah karena keonarannya di kampus. Bagaimana Lastri menangani masa-masa sulit di kampusnya bersama empat sahabatnya?</item>
+    </string-array>
+
+    <string-array name="data_poster">
+        <item>@drawable/gundala</item>
+        <item>@drawable/ready_or_not</item>
+        <item>@drawable/once_upon_a_time_in_hollywood</item>
+        <item>@drawable/bali_beats_of_paradise</item>
+        <item>@drawable/angel_has_fallen</item>
+        <item>@drawable/_47_meters_down_uncaged</item>
+        <item>@drawable/the_angry_birds_movie_2</item>
+        <item>@drawable/escape_plan_the_extractors</item>
+        <item>@drawable/dora_and_the_lost_city_of_gold</item>
+        <item>@drawable/wedding_agreement</item>
+        <item>@drawable/mahasiswi_baru</item>
+    </string-array>
+
+    <string-array name="data_producer">
+        <item>Bismarka Kurniawan, Sukhdev Singh, Wicky V. Olindo</item>
+        <item>Tripp Vinson, James Vanderbilt, William Sherak, Bradley J. Fischer</item>
+        <item>David Heyman, Quentin Tarantino, Shannon McIntosh</item>
+        <item>Umar Hadi, Julia Gouw</item>
+        <item>Gerard Butler, Les Weldon, Alan Siegel, Matt O\'Toole, Danielle Robinson, Josh Thompson</item>
+        <item>Robert Jones, Mark Lane, James Harris</item>
+        <item>John Cohen</item>
+        <item>Randall Emmett, George Furla</item>
+        <item>Kristin Burr</item>
+        <item>Chand Parwez Servia, Fiaz Servia</item>
+        <item>Lukman Sardi, Reza Katja</item>
+    </string-array>
+
+    <string-array name="data_director">
+        <item>Joko Anwar</item>
+        <item>Matt Bettinelli-olpin, Tyler Gillett</item>
+        <item>Quentin Tarantino</item>
+        <item>Livi Zheng</item>
+        <item>Ric Roman Waugh</item>
+        <item>Johannes Roberts</item>
+        <item>Thurop Van Orman, John Rice</item>
+        <item>John Herzfeld</item>
+        <item>James Bobin</item>
+        <item>Archie Hekagery</item>
+        <item>Monty Tiwa</item>
+    </string-array>
+
+    <string-array name="data_writer">
+        <item>Joko Anwar</item>
+        <item>Guy Busick, R. Christopher Murphy</item>
+        <item>Quentin Tarantino</item>
+        <item>Ken Zheng</item>
+        <item>Robert Mark Kamen, Matt Cook, Ric Roman Waugh</item>
+        <item>Ernest Riera, Johannes Roberts</item>
+        <item>Peter Ackerman</item>
+        <item>Miles Chapman, John Herzfeld</item>
+        <item>Nicholas Stoller, Matthew Robinson</item>
+        <item>Archie Hekagery, Mia Chuz</item>
+        <item>Jujur Prananto, Monty Tiwa</item>
+    </string-array>
+
+    <string-array name="data_cast">
+        <item>Abimana Aryasatya, Bront Palarae, Muzakki Ramdhan, Tara Basro, Lukman Sardi, Ario Bayu</item>
+        <item>Samara Weaving, Adam Brody, Mark O\'brien, Henry Czerny, Andie Macdowell</item>
+        <item>Leonardo Dicaprio, Brad Pitt, Margot Robbie, Dakota Fanning, Al Pacino, Timothy Olyphant, Kurt Russell, Lorenza Izzo, James Marsden, Bruce Dern, Margaret Qualley</item>
+        <item>Judith Hill, Nyoman Wenten, Livi Zheng, Nanik Wenten, Balawan</item>
+        <item>Gerard Butler, Morgan Freeman, Jada Pinkett Smith, Piper Perabo, Nick Nolte, Danny Huston</item>
+        <item>John Corbett, Nia Long, Sistine Rose Stallone, Brec Bassinger, Sophie Nelisse</item>
+        <item>Jason Sudeikis, Josh Gad, Leslie Jones, Bill Hader, Rachel Bloom, Awkwafina, Sterling K. Brown, Eugenio Derbez, Danny Mcbride, Peter Dinklage, Nicki Minaj</item>
+        <item>Sylvester Stallone, Max Zhang, Dave Bautista, Devon Sawa, Jaime King, Malese Jow, Harry Shum Jr, Russell Wong, Curtis Jackson</item>
+        <item>Isabela Moner, Eugenio Derbez, Michael Peña, Eva Longoria, Adriana Barraza, Temuera Morrison, Jeffrey Wahlberg, Nicholas Coombe, Madeleine Madden, Danny Trejo</item>
+        <item>Indah Permatasari, Refal Hady, Aghniny Haque, Jeff Smith, Ria Ricis, Bucek, Unique Priscilla, Mathias Muchus, Ria Irawan, Fergie Brittany, Yati Surachman</item>
+        <item>Widyawati, Morgan Oey, Mikha Tambayong, Umay Shahab, Sonia Alyssa, Slamet Rahardjo, Karina Suwandi, Iszur Muchtar, Ence Bagus</item>
+    </string-array>
+
+    <string-array name="data_distributor">
+        <item>Screenplay Bumilangit</item>
+        <item>20th Century Fox</item>
+        <item>Columbia Pictures</item>
+        <item>Pt. Negara Agung Film</item>
+        <item>Millenium Films</item>
+        <item>Vvs Films</item>
+        <item>Sony Pictures</item>
+        <item>Efo Films</item>
+        <item>Universal Pictures</item>
+        <item>Starvision</item>
+        <item>Mnc Pictures</item>
+    </string-array>
+
+    <string-array name="data_source">
+        <item>https://m.21cineplex.com/gui.movie_details.php?sid=&amp;movie_id=09GUNA</item>
+        <item>https://m.21cineplex.com/gui.movie_details.php?sid=&amp;movie_id=19RONT</item>
+        <item>https://m.21cineplex.com/gui.movie_details.php?sid=&amp;movie_id=19OUTI</item>
+        <item>https://m.21cineplex.com/gui.movie_details.php?sid=&amp;movie_id=09BBOP</item>
+        <item>https://m.21cineplex.com/gui.movie_details.php?sid=&amp;movie_id=16AHFN</item>
+        <item>https://m.21cineplex.com/gui.movie_details.php?sid=&amp;movie_id=194MDU</item>
+        <item>https://m.21cineplex.com/gui.movie_details.php?sid=&amp;movie_id=19ABM2</item>
+        <item>https://m.21cineplex.com/gui.movie_details.php?sid=&amp;movie_id=17EPN3</item>
+        <item>https://m.21cineplex.com/gui.movie_details.php?sid=&amp;movie_id=19DATL</item>
+        <item>https://m.21cineplex.com/gui.movie_details.php?sid=&amp;movie_id=09WAGT</item>
+        <item>https://m.21cineplex.com/gui.movie_details.php?sid=&amp;movie_id=09MBAU</item>
+    </string-array>
+</resources>
